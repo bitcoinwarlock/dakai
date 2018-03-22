@@ -1,0 +1,162 @@
+[
+	{
+		"title": "Start",
+		"tags": "",
+		"body": "[[Sometimes]]",
+		"position": {
+			"x": 19,
+			"y": 99
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Sometimes",
+		"tags": "",
+		"body": "[[In life,]]",
+		"position": {
+			"x": 240,
+			"y": 100
+		},
+		"colorID": 0
+	},
+	{
+		"title": "In life,",
+		"tags": "",
+		"body": "[[Difficult things will happen.]]",
+		"position": {
+			"x": 457,
+			"y": 96
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Difficult things will happen.",
+		"tags": "",
+		"body": "[[Part of moving past these things]]",
+		"position": {
+			"x": 674,
+			"y": 95
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Part of moving past these things",
+		"tags": "",
+		"body": "[[is reflecting on them.]]\n",
+		"position": {
+			"x": 894,
+			"y": 94
+		},
+		"colorID": 0
+	},
+	{
+		"title": "is reflecting on them.",
+		"tags": "",
+		"body": "[[This landscape is more than just a safe place for right now.]]",
+		"position": {
+			"x": 16,
+			"y": 318
+		},
+		"colorID": 0
+	},
+	{
+		"title": "This landscape is more than just a safe place for right now.",
+		"tags": "",
+		"body": "[[It is a place that can be returned to any time.]]",
+		"position": {
+			"x": 239,
+			"y": 318
+		},
+		"colorID": 0
+	},
+	{
+		"title": "It is a place that can be returned to any time.",
+		"tags": "",
+		"body": "[[It can be held within the mind and accessed whenever is needed.]]\n",
+		"position": {
+			"x": 464,
+			"y": 328
+		},
+		"colorID": 0
+	},
+	{
+		"title": "It can be held within the mind and accessed whenever is needed.",
+		"tags": "",
+		"body": "[[Each of these objects is more than just a piece of the landscape.]]",
+		"position": {
+			"x": 632,
+			"y": 325
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Each of these objects is more than just a piece of the landscape.",
+		"tags": "",
+		"body": "[[They are tools.]]",
+		"position": {
+			"x": 821,
+			"y": 315
+		},
+		"colorID": 0
+	},
+	{
+		"title": "They are tools.",
+		"tags": "",
+		"body": "[[They are helpers and teachers and they will tell stories.]]",
+		"position": {
+			"x": 14,
+			"y": 522
+		},
+		"colorID": 0
+	},
+	{
+		"title": "They are helpers and teachers and they will tell stories.",
+		"tags": "",
+		"body": "[[Hopefully these stories inspire reflection, and help in looking back on difficult things, or events from the past,]]",
+		"position": {
+			"x": 219,
+			"y": 461
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Hopefully these stories inspire reflection, and help in looking back on difficult things, or events from the past,",
+		"tags": "",
+		"body": "[[and can be helpful in moving past them.]]\n",
+		"position": {
+			"x": 473,
+			"y": 544
+		},
+		"colorID": 0
+	},
+	{
+		"title": "and can be helpful in moving past them.",
+		"tags": "",
+		"body": "[[Move using the joystick.]]\n",
+		"position": {
+			"x": 783,
+			"y": 515
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Move using the joystick.",
+		"tags": "",
+		"body": "[[Press X near an object to ask it to tell you its story.]]\n",
+		"position": {
+			"x": 1018,
+			"y": 464
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Press X near an object to ask it to tell you its story.",
+		"tags": "",
+		"body": "Try it with the cube in front of you.",
+		"position": {
+			"x": 99,
+			"y": 646
+		},
+		"colorID": 0
+	}
+]
